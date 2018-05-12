@@ -1,0 +1,30 @@
+_repo: Murusia_44775
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Salmela, Marja
+    birthdate: 1875
+    deathdate: 1924
+    gutenberg_agent_id: '6031'
+    url: http://www.gutenberg.org/2009/agents/6031
+description: ''
+gutenberg_issued: '2014-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44775'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish fiction'
+- !lcsh 'Short stories, Finnish'
+tableOfContents: Hämyhetkenä -- Vanha Maija -- Esikoinen -- He rakastivat kumpikin
+  -- Kannel -- Valkolakki -- Taistelutantereelta -- Pollen puolesta -- Veljesi tähden
+  -- Kun talvinen aurinko laskee.
+title: Murusia
+url: http://www.gutenberg.org/ebooks/44775
